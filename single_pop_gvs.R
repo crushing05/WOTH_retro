@@ -1,7 +1,5 @@
 setwd("C:/Users/rushingc/Desktop/Backup/WOTH_retro")
 #setwd("~/Desktop/Clark Saved/Projects/3_Working on/WOTH_retro")
-library(lattice)
-library(coda)
 library(R2jags)
 library(crushingr)
 
